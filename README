@@ -1,0 +1,18 @@
+a.
+
+veragePdRd
+0000000100000f50 T __Z7averageif
+0000000100000000 T __mh_execute_header
+0000000100000f80 T _main
+                 U dyld_stub_binder
+
+b.
+1 8
+4 8
+4 8
+8 8
+char 1 byte
+int  4 bytes
+float  4 bytes
+double  8 bytes
+ptr 8 bytes
